@@ -66,6 +66,24 @@ Week 4
 - ROC Curve: Visualizing classifier performance.
 - AUC Score: Area Under ROC Curve.
 
+Week 5 
+
+📈 Regression Models
+- Simple Linear Regression: Single predictor, linear relationship.
+- Multiple Linear Regression: Multiple predictors, linear relationship.
+- Polynomial Regression: Non-linear relationships via polynomial features.
+- Ridge Regression (L2): Prevents overfitting with L2 regularization.
+- Lasso Regression (L1): Feature selection via L1 regularization.
+- ElasticNet Regression: Combines L1 & L2 penalties (Ridge + Lasso).
+
+🔍 Classification Models
+- Logistic Regression: Binary/multi-class classification (sigmoid function).
+- Naive Bayes: Probabilistic classifier based on Bayes’ theorem.
+- k-Nearest Neighbors (k-NN): Instance-based learning (distance metrics).
+- Decision Trees: Rule-based splits (entropy/Gini impurity).
+- Random Forest: Ensemble of decision trees (bagging + feature randomness).
+- Support Vector Machines (SVM): Maximizes margin using kernels (linear, RBF).
+
 
 
 
