@@ -83,6 +83,26 @@ Week 5
 - Decision Trees: Rule-based splits (entropy/Gini impurity).
 - Random Forest: Ensemble of decision trees (bagging + feature randomness).
 - Support Vector Machines (SVM): Maximizes margin using kernels (linear, RBF).
+- 
+
+ Week 6: Clustering & Ensemble Methods
+
+### 🔍 Clustering
+- **K-Means**: Elbow method + silhouette analysis
+- **Hierarchical**: Dendrograms & linkage methods
+- **DBSCAN**: Density-based clustering with noise handling
+- **GMM**: Probabilistic clustering with EM algorithm
+
+### 🌳 Ensemble Methods
+- **Bagging**: Random Forest implementations
+- **Boosting**: XGBoost/AdaBoost comparisons
+- **Stacking**: Meta-model performance analysis
+
+### 🛡️ Regularization
+- L1 (Lasso), L2 (Ridge), ElasticNet implementations
+- Feature selection visualizations
+
+
 
 
 
